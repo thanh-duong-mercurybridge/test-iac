@@ -1,0 +1,5 @@
+vm_state,vm_name,vm_dns_zone,vm_portgroups,vm_ip_addr,vm_netmask,vm_gateway,vm_owner
+on,sat-sg1n-vm-db-01,tony.local,NET_172.16.14.0,172.16.14.75,255.255.255.0,172.16.14.1,Tony
+on,sat-sg1n-vm-db-02,tony.local,NET_172.16.14.0,172.16.14.76,255.255.255.0,172.16.14.1,Eu-Hock
+on,sat-sg1n-vm-non-db-01,binh.local,NET_172.16.14.0,172.16.14.77,255.255.255.0,172.16.14.1,Hien
+on,sat-sg1n-vm-non-db-02,binh.local,NET_172.16.14.0,172.16.14.78,255.255.255.0,172.16.14.1,Binh
